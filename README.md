@@ -14,15 +14,14 @@ A continuación, se presenta una lista de los archivos que deben ser revisados p
 CARPETA RETRO  
 Módulo 1: Estadística
 SMA0101A  
-Evidencia 01-
-Módulo 2: Aprendizaje Automático
+Módulo 2: Machine Learning
 SMA0401A 
-Evidencia 01-Retroalimentación_ ML.pynb el cual es la entrega del dia 21 de Agosto del 2023.
+Evidencia 01-Retroalimentación_ ML.pynb, entrega del dia 21 de Agosto del 2023.
 
 CARPETA FINAL  
-Módulo 1: Estadísticas  
+Módulo 1: Estadística  
 SMA0101A  
-Módulo 2: Aprendizaje Automático  
+Módulo 2: Machine Learning  
 SMA0401A  
 
 
