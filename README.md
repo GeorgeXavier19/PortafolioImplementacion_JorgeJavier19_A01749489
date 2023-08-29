@@ -12,13 +12,13 @@ Archivos para revisión
 A continuación, se presenta una lista de los archivos que deben ser revisados para calificar cada subcompetencia:
 
 CARPETA RETRO  
-Módulo 1: Estadística
-SMA0101A  
-Módulo 2: Machine Learning  
+Módulo 1: Estadística.
 
-SMA0401A    
+Módulo 2: Machine Learning.
 
 Evidencia 01-Retroalimentación_ ML.pynb, entrega del dia 21 de Agosto del 2023.
+
+Evidencia 02-Retroalimentación_ FrameworkML.pynb, entrega del dia 21 de Agosto del 2023.
 
 CARPETA FINAL  
 Módulo 1: Estadística  
