@@ -18,7 +18,7 @@ Módulo 2: Machine Learning.
 
 Evidencia 01-Retroalimentación_ ML.pynb, entrega del dia 21 de Agosto del 2023.
 
-Evidencia 02-Retroalimentación_ FrameworkML.pynb, entrega del dia 21 de Agosto del 2023.
+Evidencia 02-Retroalimentación_ FrameworkML.pynb, entrega del dia 31 de Agosto del 2023.
 
 CARPETA FINAL  
 Módulo 1: Estadística  
