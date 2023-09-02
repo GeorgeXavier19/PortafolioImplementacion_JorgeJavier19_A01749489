@@ -14,6 +14,8 @@ A continuación, se presenta una lista de los archivos que deben ser revisados p
 CARPETA RETRO  
 Módulo 1: Estadística.
 
+Evidencia 01-Statistics_portfolio_parte2.pynb, entrega del dia 1 de Septiembre del 2023.
+
 Módulo 2: Machine Learning.
 
 Evidencia 01-Retroalimentación_ ML.pynb, entrega del dia 21 de Agosto del 2023.
