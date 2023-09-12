@@ -1,6 +1,6 @@
 # Estructura del Repositorio de Implementación
 
-## Carpeta Raíz
+## Carpeta "retro"
 - **README.md**: Descripción general del contenido y la estructura del repositorio.
 
 ## Carpeta "retro"
@@ -14,9 +14,6 @@
   - **Evidencia 02-Retroalimentacion_Framework.pdf**: Entrega del día 31 de Agosto del 2023.
   -  **README_Retroalimentacion_Framework.md**: Descripción general del contenido y la estructura del archivo.
 
-## Carpeta "final"
-- **Módulo 1: Estadística (SMA0101A)**
-- **Módulo 2: Machine Learning (SMA0401A)**
 
 
 
