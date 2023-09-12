@@ -1,29 +1,52 @@
-# Modelo KNeighborsClassifier para Clasificación de Dígitos Escritos a Mano
+# Titanic Logistic Regression
+
+Este proyecto implementa un modelo de regresión logística para predecir la supervivencia en el Titanic utilizando el conjunto de datos del Titanic.
 
 ## Descripción del Modelo
-Este repositorio contiene una implementación del modelo KNeighborsClassifier para la clasificación de dígitos escritos a mano. El modelo utiliza el conjunto de datos "digits" proporcionado por la librería Scikit-learn. El objetivo es predecir la etiqueta numérica correspondiente a imágenes de dígitos escritos a mano.
+
+El modelo utilizado en este proyecto es un modelo de regresión logística. Utiliza la función de hipótesis logística para realizar predicciones. El modelo se entrena utilizando un conjunto de datos que incluye características como el género (Sex) de los pasajeros para predecir si un pasajero sobrevivió (Survived) o no.
+
+### Hiperparámetros del Modelo
+
+- `theta`: Lista de parámetros iniciales del modelo.
+- `alpha`: Tasa de aprendizaje (learning rate) utilizada para actualizar los parámetros del modelo.
+- `h`: Función de hipótesis logística.
+- `ite`: Número de iteraciones para el entrenamiento del modelo.
 
 ## Descripción del Dataset
-El conjunto de datos utilizado en este proyecto es el "digits" dataset proporcionado por la librería Scikit-learn. Este conjunto de datos contiene imágenes en escala de grises de dígitos escritos a mano, donde cada imagen está asociada con una etiqueta numérica que representa el dígito que se muestra en la imagen. El dataset consta de 1,797 imágenes de 8x8 píxeles, abarcando dígitos del 0 al 9.
+
+El conjunto de datos utilizado en este proyecto es el conjunto de datos del Titanic. Contiene información sobre pasajeros del Titanic, incluyendo características como la edad (Age), género (Sex), tarifa (Fare), entre otros.
 
 ### Información del Dataset
-- Nombre: digits dataset
-- URL: [digits dataset en Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
-- Cantidad de Imágenes: 1,797
-- Tamaño de las Imágenes: 8x8 píxeles
-- Etiquetas: Dígitos del 0 al 9
+
+- Tamaño del conjunto de datos: Número total de muestras en el conjunto de datos.
+- Características utilizadas: Lista de características utilizadas en el modelo (por ejemplo, 'Sex' y 'Survived').
 
 ## Uso del Código
-El código en este repositorio implementa el modelo KNeighborsClassifier para entrenar y evaluar la capacidad del modelo para clasificar dígitos escritos a mano. El código carga automáticamente el conjunto de datos "digits" de Scikit-learn y realiza la separación en conjuntos de entrenamiento y prueba. Luego, se entrena el modelo y se evalúa su desempeño utilizando métricas como la precisión, el recall y el F1-score.
+
+El código proporcionado se utiliza para entrenar un modelo de regresión logística en el conjunto de datos del Titanic. Para utilizar el código, sigue estos pasos:
+
+1. Asegúrate de tener todas las bibliotecas requeridas instaladas, como numpy y matplotlib.
+2. Ajusta los hiperparámetros del modelo, como `alpha` y `ite`, según tus necesidades.
+3. Ejecuta el código para entrenar el modelo y realizar predicciones.
+4. Se generará una matriz de confusión y se calcularán métricas de desempeño como la precisión, la recuperación y el puntaje F1.
 
 ## Resultados y Conclusiones
-El análisis del desempeño del modelo KNeighborsClassifier en el conjunto de datos "digits" revela resultados prometedores. Las métricas de evaluación, como la precisión y el F1-score, demuestran un rendimiento satisfactorio en la clasificación de dígitos escritos a mano. El análisis también incluye diagnósticos de sesgo, varianza y nivel de ajuste del modelo, lo que proporciona una comprensión completa de su adaptación y capacidad de generalización.
+
+Los resultados del modelo se evalúan utilizando métricas de desempeño como la precisión, la recuperación y el puntaje F1. Estos resultados se utilizan para determinar la efectividad del modelo en la predicción de la supervivencia en el Titanic.
 
 ## Contribuciones y Mejoras Futuras
-Este proyecto es un punto de partida para la implementación y evaluación de modelos de clasificación en el contexto de dígitos escritos a mano. Las mejoras futuras podrían incluir la optimización de parámetros del modelo, la exploración de diferentes algoritmos de clasificación y la visualización detallada de resultados.
+
+Si deseas contribuir a este proyecto o realizar mejoras futuras, considera las siguientes áreas:
+
+- Exploración de más características del conjunto de datos para mejorar el rendimiento del modelo.
+- Experimentación con diferentes algoritmos de clasificación además de la regresión logística.
+- Optimización de hiperparámetros para lograr un mejor rendimiento del modelo.
 
 ## Autor
+
 [Jorge Javier Sosa Briseño]
+
 
 
 
