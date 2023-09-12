@@ -16,6 +16,11 @@
 
 ## Carpeta "final"
 - **Módulo 1: Estadística (SMA0101A)**
+  - **Intervalos_de_Confianza**
+  - **Pruebas_hipotesis**
+  - **ANOVA**
+  - **Regresion_Lineal**
+  - **Reporte_Final**
 - **Módulo 2: Machine Learning (SMA0401A)**
    - **Evidencia 01-Final_Sin_Framework**: Entrega final.
   - **README_Final_Sin_Framework.md**: Descripción general del contenido y la estructura del archivo.
