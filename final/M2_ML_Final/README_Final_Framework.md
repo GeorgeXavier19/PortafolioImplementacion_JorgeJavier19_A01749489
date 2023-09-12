@@ -22,6 +22,14 @@ El análisis del desempeño del modelo KNeighborsClassifier en el conjunto de da
 ## Contribuciones y Mejoras Futuras
 Este proyecto es un punto de partida para la implementación y evaluación de modelos de clasificación en el contexto de dígitos escritos a mano. Las mejoras futuras podrían incluir la optimización de parámetros del modelo, la exploración de diferentes algoritmos de clasificación y la visualización detallada de resultados.
 
+## Cambios realizados a partir de la retro
+- El reporte incluye el nombre del dataset utilizado
+- El reporte incluye un enlace al lugar donde se puede encontrar el dataset utilizado
+- El reporte incluye una descripción breve de los datos incluidos en el dataset (cantidad de registros/muestras, número de características, número de clases de salida o rango de valores de salida)
+- El dataset se separa en entrenamiento, validación, y prueba
+- Evalúa el modelo con un conjunto de prueba
+- El conjunto de validación se utiliza para escoger el modelo final (refinamiento de hiper-parámetros)
+
 ## Autor
 [Jorge Javier Sosa Briseño]
 
